@@ -1,3 +1,5 @@
+Vaqxai's note: I just removed firestorm_prev from this.
+
 Firestorm is the low-overhead intrusive flamegraph profiler for Rust.
 
 [![Crates.io][crates-badge]][crates-url]
