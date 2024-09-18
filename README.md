@@ -1,4 +1,10 @@
-Vaqxai's note: I just removed firestorm_prev from this.
+
+>[!NOTE]
+>
+>I just removed firestorm_prev from this.
+>
+>-V
+
 
 Firestorm is the low-overhead intrusive flamegraph profiler for Rust.
 
